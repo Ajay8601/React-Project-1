@@ -5,7 +5,7 @@ export default function Header() {
     <div>
         <nev className="container">
             <div>
-                <img src="public/logo.png" alt="logo" height={50} />
+                <img src="/logo.png" alt="logo" height={50} />
             </div>
             <ul>
                 <a>Menu</a>

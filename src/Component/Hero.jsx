@@ -27,13 +27,13 @@ export default function Hero() {
                 </p>
             </div>
             <div className="logo-3">
-            <img src="public/amazon logo.jpg" alt="amazon" height={40} />
-            <img src="public/flipcart logo.jpg" alt="flipcart" height={40} />
+            <img src="/amazon logo.jpg" alt="amazon" height={40} />
+            <img src="/flipcart logo.jpg" alt="flipcart" height={40} />
             </div>
         </div>
       </div>
       <div className='shose'>
-        <img src="public/shose1.png" alt="shose" height={500} />
+        <img src="/shose1.png" alt="shose" height={500} />
       </div>
     </div>
   )
